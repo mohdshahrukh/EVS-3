@@ -543,13 +543,13 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t The free time when we can do what we want is known as : (a) Leisure (b) Funtime (c) Entertainment "
+                "-Question": "1.\t The free time when we can do what we want is known as : \n\t\n\t(a) Leisure (b) Funtime (c) Entertainment "
               },
               {
-                "-Question": "2.\t Which of these is indoor game? (a) Pitthoo (b) Football (c) Ludo "
+                "-Question": "2.\t Which of these is indoor game? \n\t\n\t(a) Pitthoo (b) Football (c) Ludo "
               },
               {
-                "-Question": "3.\t Which of these is outdoor game? (a) Football (b) Ludo (c) Chess "
+                "-Question": "3.\t Which of these is outdoor game? \n\t(a) Football (b) Ludo (c) Chess "
               }
             ]
           },
@@ -619,19 +619,19 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Plants provide us with :(a) water (b) food (c) energy "
+                "-Question": "1.\t Plants provide us with :\n\t(a) water (b) food (c) energy "
               },
               {
-                "-Question": "2.\t The part of the plant that grows underground is called ......................... . (a) the root (b) the stem (c) the shoot "
+                "-Question": "2.\t The part of the plant that grows underground is called ......................... . \n\t(a) the root (b) the stem (c) the shoot "
               },
               {
-                "-Question": "3.\t ......................... is also known as the food factory of the plant. (a) The stem (b) The leaf (c) The flower "
+                "-Question": "3.\t ......................... is also known as the food factory of the plant. \n\t(a) The stem (b) The leaf (c) The flower "
               },
               {
-                "-Question": "4.\t The lower side of the leaf has many tiny pores called ......................... . (a) chlorophyll (b) food factory (c) stomata "
+                "-Question": "4.\t The lower side of the leaf has many tiny pores called ......................... . \n\t(a) chlorophyll (b) food factory (c) stomata "
               },
               {
-                "-Question": "5.\t  Each seed has a ......................... inside it. (a) plant (b) baby plant (c) flower "
+                "-Question": "5.\t  Each seed has a ......................... inside it. \n\t(a) plant (b) baby plant (c) flower "
               }
             ]
           },
@@ -713,16 +713,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Which of the following is herbivore? (a) Cow  (b) Lion (c) Hen "
+                "-Question": "1.\t Which of the following is herbivore? \n\t(a) Cow  (b) Lion (c) Hen "
               },
               {
-                "-Question": "2.\t Which of the following is a omnivore? (a) Zebra (b) Tiger (c) Bear "
+                "-Question": "2.\t Which of the following is a omnivore? \n\t(a) Zebra (b) Tiger (c) Bear "
               },
               {
-                "-Question": "3.\t Which of the following has a short, strong and curved beak? (a) Crow (b) Parrot (c) Vulture "
+                "-Question": "3.\t Which of the following has a short, strong and curved beak? \n\t(a) Crow (b) Parrot (c) Vulture "
               },
               {
-                "-Question": "4.\t A food chain begins with : (a) Animals (b) Plants (c) Birds "
+                "-Question": "4.\t A food chain begins with : \n\t(a) Animals (b) Plants (c) Birds "
               }
             ]
           },
@@ -807,19 +807,19 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t The bones of birds are: (a) heavy (b) hollow (c) long"
+                "-Question": "1.\t The bones of birds are: \n\t(a) heavy (b) hollow (c) long"
               },
               {
-                "-Question": "2.\t Talons are present in : (a) ducks (b) vultures (c) sun birds "
+                "-Question": "2.\t Talons are present in : \n\t(a) ducks (b) vultures (c) sun birds "
               },
               {
-                "-Question": "3.\t A woodpecker makes its nest in the : (a) ground (b) tree trunk (c) pledge "
+                "-Question": "3.\t A woodpecker makes its nest in the : \n\t(a) ground (b) tree trunk (c) pledge "
               },
               {
-                "-Question": "4.\t A bird that has webbed feet is : (a) duck (b) crow (c) kingfisher "
+                "-Question": "4.\t A bird that has webbed feet is : \n\t(a) duck (b) crow (c) kingfisher "
               },
               {
-                "-Question": "5.\t These birds of prey have strong, sharp and hooked beaks : (a) eagles, vultures and sparrows (b) eagles, vultures and kites (c) vultures, kites and pigeons"
+                "-Question": "5.\t These birds of prey have strong, sharp and hooked beaks : \n\t(a) eagles, vultures and sparrows (b) eagles, vultures and kites (c) vultures, kites and pigeons"
               }
             ]
           },
@@ -904,16 +904,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t These are living things :(a) plants (b) tables (c) stones"
+                "-Question": "1.\t These are living things :\n\t(a) plants (b) tables (c) stones"
               },
               {
-                "-Question": "2.\tA  These are man-made things : (a) clouds (b) stars (c) roads"
+                "-Question": "2.\tA  These are man-made things :\n\t (a) clouds (b) stars (c) roads"
               },
               {
-                "-Question": "3.\t These are natural things : (a) bridges (b) stars (c) cars"
+                "-Question": "3.\t These are natural things : \n\t(a) bridges (b) stars (c) cars"
               },
               {
-                "-Question": "4.\t Living things : (a) grow (b) do not breathe (c) do not need food "
+                "-Question": "4.\t Living things : \n\t(a) grow (b) do not breathe (c) do not need food "
               }
             ]
           },
@@ -995,16 +995,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t PIN stands for : (a) Postal Indian Number (b) Postal Index Number (c) Postal Index Note"
+                "-Question": "1.\t PIN stands for : \n\t(a) Postal Indian Number (b) Postal Index Number (c) Postal Index Note"
               },
               {
-                "-Question": "2.\t STD stands for : (a) Subscriber Trade Dialling (b) Subscriber Trunk Dialling (c) Standard Trunk Dialling"
+                "-Question": "2.\t STD stands for : \n\t(a) Subscriber Trade Dialling (b) Subscriber Trunk Dialling (c) Standard Trunk Dialling"
               },
               {
-                "-Question": "3.\t An example of mass media is : (a) letter (b) telephone (c) television"
+                "-Question": "3.\t An example of mass media is : \n\t(a) letter (b) telephone (c) television"
               },
               {
-                "-Question": "4.\t  E-mail can be sent through a : (a) computer (b) radio (c) clock "
+                "-Question": "4.\t  E-mail can be sent through a : \n\t(a) computer (b) radio (c) clock "
               }
             ]
           },
@@ -1083,16 +1083,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Bus is a means of : (a) water transport (b) land transport (c) air transport"
+                "-Question": "1.\t Bus is a means of : \n\t(a) water transport (b) land transport (c) air transport"
               },
               {
-                "-Question": "2.\t The ...................... is called the ‘Ship of the desert’.(a) horse (b) camel (c) elephant"
+                "-Question": "2.\t The ...................... is called the ‘Ship of the desert’.\n\t(a) horse (b) camel (c) elephant"
               },
               {
-                "-Question": "3.\t The full form of CNG is : (a) Compressed Natural Gas (b) Compact Natural Gas (c) Compressed Nature Gas "
+                "-Question": "3.\t The full form of CNG is : \n\t(a) Compressed Natural Gas (b) Compact Natural Gas (c) Compressed Nature Gas "
               },
               {
-                "-Question": "4.\tThe most expensive mode of transport is : (a) air (b) land (c) water "
+                "-Question": "4.\tThe most expensive mode of transport is : \n\t(a) air (b) land (c) water "
               }
             ]
           },
@@ -1165,19 +1165,19 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t ......................... is all around us but we cannot see it. (a) Water (b) Plants (c) Air"
+                "-Question": "1.\t ......................... is all around us but we cannot see it. \n\t(a) Water (b) Plants (c) Air"
               },
               {
-                "-Question": "2.\t We need ......................... to breathe. (a) nitrogen (b) oxygen (c) carbon dioxide "
+                "-Question": "2.\t We need ......................... to breathe. \n\t(a) nitrogen (b) oxygen (c) carbon dioxide "
               },
               {
-                "-Question": "3.\t The main source of water is ......................... : (a) groundwater (b) surface water (c) rain water "
+                "-Question": "3.\t The main source of water is ......................... : \n\t(a) groundwater (b) surface water (c) rain water "
               },
               {
-                "-Question": "4.\t In our homes, we get water through ......................... : (a) wells (b) taps (c) handpumps "
+                "-Question": "4.\t In our homes, we get water through ......................... : \n\t(a) wells (b) taps (c) handpumps "
               },
               {
-                "-Question": "5.\t ......................... improve soil fertility. (a) Ants (b) Earthworms (c) Frogs "
+                "-Question": "5.\t ......................... improve soil fertility.\n\t (a) Ants (b) Earthworms (c) Frogs "
               }
             ]
           },
@@ -1259,13 +1259,13 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t A potter makes pottery on a :(a) wheel (b) table (c) both of these"
+                "-Question": "1.\t A potter makes pottery on a :\n\t(a) wheel (b) table (c) both of these"
               },
               {
-                "-Question": "2.\t Pottery is the art of making things out of : (a) glass (b) clay (c) both of these "
+                "-Question": "2.\t Pottery is the art of making things out of :\n\t(a) glass (b) clay (c) both of these "
               },
               {
-                "-Question": "3.\t People drink tea in earthen cups called : (a) diyas (b) gharas (c) kulhads "
+                "-Question": "3.\t People drink tea in earthen cups called : \n\t(a) diyas (b) gharas (c) kulhads "
               }
             ]
           },
@@ -1337,19 +1337,19 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t To protect our body, we wear : (a) clothes (b) trees (c) cement"
+                "-Question": "1.\t To protect our body, we wear : \n\t(a) clothes (b) trees (c) cement"
               },
               {
-                "-Question": "2.\t ......................... is used to change the colour of the cloth. (a) Dye (b) Rye (c) Tie"
+                "-Question": "2.\t ......................... is used to change the colour of the cloth. \n\t(a) Dye (b) Rye (c) Tie"
               },
               {
-                "-Question": "3.\t Kanthawork is a famous work of : (a) Punjab (b) Bengal (c) Jammu and Kashmir "
+                "-Question": "3.\t Kanthawork is a famous work of : \n\t(a) Punjab (b) Bengal (c) Jammu and Kashmir "
               },
               {
-                "-Question": "4.\t ......................... is famous for ‘Ikat’. (a) Punjab (b) Gujarat (c) Odisha "
+                "-Question": "4.\t ......................... is famous for ‘Ikat’. \n\t(a) Punjab (b) Gujarat (c) Odisha "
               },
               {
-                "-Question": "5.\t The printed cloth is put to dry in the ......................... .(a) room (b) sun (c) moon "
+                "-Question": "5.\t The printed cloth is put to dry in the ......................... .\n\t(a) room (b) sun (c) moon "
               }
             ]
           },
